@@ -1,0 +1,13 @@
+{
+  "_note": "SIMULATED fridge scene — several items past or near their freshness limit. Not a real camera capture.",
+  "scene": "fridge_expiring",
+  "detections": [
+    {"name": "Spinach", "category": "produce", "count": 1, "confidence": 0.82, "sim_age_days": 6},
+    {"name": "Chicken Breast", "category": "meat", "count": 1, "confidence": 0.89, "sim_age_days": 4},
+    {"name": "Leftover Pasta", "category": "leftovers", "count": 1, "confidence": 0.78, "sim_age_days": 5},
+    {"name": "Milk", "category": "dairy", "count": 1, "confidence": 0.97, "sim_age_days": 9},
+    {"name": "Lettuce", "category": "produce", "count": 1, "confidence": 0.84, "sim_age_days": 5},
+    {"name": "Tomatoes", "category": "produce", "count": 3, "confidence": 0.92, "sim_age_days": 6},
+    {"name": "Yogurt", "category": "dairy", "count": 2, "confidence": 0.95, "sim_age_days": 13}
+  ]
+}

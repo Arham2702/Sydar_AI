@@ -1,0 +1,22 @@
+[
+  {"name": "Milk", "category": "dairy", "default_shelf_life_days": 10, "freshness_profile": "slow_perish", "low_stock_threshold": 1, "unit": "carton"},
+  {"name": "Eggs", "category": "dairy", "default_shelf_life_days": 21, "freshness_profile": "slow_perish", "low_stock_threshold": 4, "unit": "count"},
+  {"name": "Spinach", "category": "produce", "default_shelf_life_days": 5, "freshness_profile": "fast_perish", "low_stock_threshold": 1, "unit": "bag"},
+  {"name": "Tomatoes", "category": "produce", "default_shelf_life_days": 7, "freshness_profile": "fast_perish", "low_stock_threshold": 2, "unit": "count"},
+  {"name": "Carrots", "category": "produce", "default_shelf_life_days": 21, "freshness_profile": "slow_perish", "low_stock_threshold": 3, "unit": "count"},
+  {"name": "Bell Peppers", "category": "produce", "default_shelf_life_days": 10, "freshness_profile": "fast_perish", "low_stock_threshold": 2, "unit": "count"},
+  {"name": "Lettuce", "category": "produce", "default_shelf_life_days": 6, "freshness_profile": "fast_perish", "low_stock_threshold": 1, "unit": "head"},
+  {"name": "Broccoli", "category": "produce", "default_shelf_life_days": 7, "freshness_profile": "fast_perish", "low_stock_threshold": 1, "unit": "head"},
+  {"name": "Apples", "category": "produce", "default_shelf_life_days": 30, "freshness_profile": "slow_perish", "low_stock_threshold": 2, "unit": "count"},
+  {"name": "Onions", "category": "produce", "default_shelf_life_days": 45, "freshness_profile": "slow_perish", "low_stock_threshold": 2, "unit": "count"},
+  {"name": "Garlic", "category": "produce", "default_shelf_life_days": 60, "freshness_profile": "shelf_stable", "low_stock_threshold": 1, "unit": "bulb"},
+  {"name": "Cheddar Cheese", "category": "dairy", "default_shelf_life_days": 30, "freshness_profile": "slow_perish", "low_stock_threshold": 1, "unit": "block"},
+  {"name": "Butter", "category": "dairy", "default_shelf_life_days": 45, "freshness_profile": "slow_perish", "low_stock_threshold": 1, "unit": "block"},
+  {"name": "Yogurt", "category": "dairy", "default_shelf_life_days": 14, "freshness_profile": "slow_perish", "low_stock_threshold": 2, "unit": "cup"},
+  {"name": "Chicken Breast", "category": "meat", "default_shelf_life_days": 3, "freshness_profile": "fast_perish", "low_stock_threshold": 1, "unit": "count"},
+  {"name": "Ground Beef", "category": "meat", "default_shelf_life_days": 3, "freshness_profile": "fast_perish", "low_stock_threshold": 1, "unit": "pack"},
+  {"name": "Orange Juice", "category": "drinks", "default_shelf_life_days": 14, "freshness_profile": "shelf_stable", "low_stock_threshold": 1, "unit": "carton"},
+  {"name": "Ketchup", "category": "condiment", "default_shelf_life_days": 180, "freshness_profile": "shelf_stable", "low_stock_threshold": 1, "unit": "bottle"},
+  {"name": "Mayonnaise", "category": "condiment", "default_shelf_life_days": 90, "freshness_profile": "shelf_stable", "low_stock_threshold": 1, "unit": "jar"},
+  {"name": "Leftover Pasta", "category": "leftovers", "default_shelf_life_days": 4, "freshness_profile": "fast_perish", "low_stock_threshold": 1, "unit": "container"}
+]

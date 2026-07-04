@@ -1,0 +1,11 @@
+{
+  "_note": "SIMULATED fridge scene — a sparse fridge running low on staples. Not a real camera capture.",
+  "scene": "fridge_low",
+  "detections": [
+    {"name": "Milk", "category": "dairy", "count": 1, "confidence": 0.97, "sim_age_days": 8},
+    {"name": "Eggs", "category": "dairy", "count": 2, "confidence": 0.94, "sim_age_days": 6},
+    {"name": "Tomatoes", "category": "produce", "count": 1, "confidence": 0.9, "sim_age_days": 3},
+    {"name": "Butter", "category": "dairy", "count": 1, "confidence": 0.96, "sim_age_days": 20},
+    {"name": "Ketchup", "category": "condiment", "count": 1, "confidence": 0.99, "sim_age_days": 30}
+  ]
+}

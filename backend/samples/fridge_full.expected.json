@@ -1,0 +1,20 @@
+{
+  "_note": "SIMULATED fridge scene — a well-stocked fridge. Not a real camera capture. Used by MockVisionProvider.",
+  "scene": "fridge_full",
+  "detections": [
+    {"name": "Milk", "category": "dairy", "count": 1, "confidence": 0.98, "sim_age_days": 3},
+    {"name": "Eggs", "category": "dairy", "count": 8, "confidence": 0.95, "sim_age_days": 5},
+    {"name": "Spinach", "category": "produce", "count": 1, "confidence": 0.88, "sim_age_days": 4},
+    {"name": "Tomatoes", "category": "produce", "count": 4, "confidence": 0.93, "sim_age_days": 2},
+    {"name": "Carrots", "category": "produce", "count": 5, "confidence": 0.94, "sim_age_days": 6},
+    {"name": "Bell Peppers", "category": "produce", "count": 3, "confidence": 0.9, "sim_age_days": 3},
+    {"name": "Lettuce", "category": "produce", "count": 1, "confidence": 0.85, "sim_age_days": 5},
+    {"name": "Cheddar Cheese", "category": "dairy", "count": 1, "confidence": 0.92, "sim_age_days": 10},
+    {"name": "Butter", "category": "dairy", "count": 1, "confidence": 0.97, "sim_age_days": 12},
+    {"name": "Chicken Breast", "category": "meat", "count": 2, "confidence": 0.91, "sim_age_days": 1},
+    {"name": "Yogurt", "category": "dairy", "count": 3, "confidence": 0.96, "sim_age_days": 4},
+    {"name": "Orange Juice", "category": "drinks", "count": 1, "confidence": 0.99, "sim_age_days": 5},
+    {"name": "Apples", "category": "produce", "count": 4, "confidence": 0.9, "sim_age_days": 8},
+    {"name": "Garlic", "category": "produce", "count": 1, "confidence": 0.8, "sim_age_days": 9}
+  ]
+}

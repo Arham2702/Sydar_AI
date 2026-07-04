@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Veggie Omelette",
+    "description": "A fluffy omelette loaded with peppers, spinach and cheese.",
+    "cuisine": "Breakfast",
+    "prep_minutes": 15,
+    "steps": [
+      "Whisk the eggs with a splash of milk and a pinch of salt.",
+      "Melt butter in a non-stick pan over medium heat.",
+      "Saute the peppers and spinach until softened.",
+      "Pour in the eggs, top with cheddar, and fold when set."
+    ],
+    "ingredients": [
+      {"name": "Eggs", "quantity": 3, "unit": "count"},
+      {"name": "Bell Peppers", "quantity": 1, "unit": "count"},
+      {"name": "Spinach", "quantity": 1, "unit": "handful"},
+      {"name": "Cheddar Cheese", "quantity": 1, "unit": "slice"},
+      {"name": "Butter", "quantity": 1, "unit": "tbsp"},
+      {"name": "Milk", "quantity": 1, "unit": "splash", "optional": true}
+    ]
+  },
+  {
+    "name": "Chicken Stir-Fry",
+    "description": "Quick weeknight stir-fry with crisp vegetables.",
+    "cuisine": "Asian",
+    "prep_minutes": 25,
+    "steps": [
+      "Slice the chicken and vegetables into bite-size pieces.",
+      "Sear the chicken until golden, then set aside.",
+      "Stir-fry garlic, onions, peppers, carrots and broccoli.",
+      "Return the chicken, toss with sauce, and serve hot."
+    ],
+    "ingredients": [
+      {"name": "Chicken Breast", "quantity": 2, "unit": "count"},
+      {"name": "Bell Peppers", "quantity": 1, "unit": "count"},
+      {"name": "Carrots", "quantity": 2, "unit": "count"},
+      {"name": "Broccoli", "quantity": 1, "unit": "head"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"},
+      {"name": "Onions", "quantity": 1, "unit": "count"}
+    ]
+  },
+  {
+    "name": "Garden Salad",
+    "description": "A crunchy fresh salad, ready in minutes.",
+    "cuisine": "Salad",
+    "prep_minutes": 10,
+    "steps": [
+      "Wash and tear the lettuce into a bowl.",
+      "Chop the tomatoes, carrots and peppers.",
+      "Toss everything with your favourite dressing."
+    ],
+    "ingredients": [
+      {"name": "Lettuce", "quantity": 1, "unit": "head"},
+      {"name": "Tomatoes", "quantity": 2, "unit": "count"},
+      {"name": "Carrots", "quantity": 1, "unit": "count"},
+      {"name": "Bell Peppers", "quantity": 1, "unit": "count", "optional": true}
+    ]
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "description": "Classic slow-simmered beef and tomato sauce.",
+    "cuisine": "Italian",
+    "prep_minutes": 40,
+    "steps": [
+      "Brown the ground beef with onions and garlic.",
+      "Add chopped tomatoes and simmer for 30 minutes.",
+      "Season to taste and serve over pasta."
+    ],
+    "ingredients": [
+      {"name": "Ground Beef", "quantity": 1, "unit": "pack"},
+      {"name": "Tomatoes", "quantity": 3, "unit": "count"},
+      {"name": "Onions", "quantity": 1, "unit": "count"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"}
+    ]
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "description": "Golden, buttery, melty comfort food.",
+    "cuisine": "Snack",
+    "prep_minutes": 10,
+    "steps": [
+      "Butter two slices of bread.",
+      "Layer cheddar between them.",
+      "Grill in a pan until golden on both sides."
+    ],
+    "ingredients": [
+      {"name": "Cheddar Cheese", "quantity": 2, "unit": "slice"},
+      {"name": "Butter", "quantity": 1, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "Soft, creamy scrambled eggs.",
+    "cuisine": "Breakfast",
+    "prep_minutes": 8,
+    "steps": [
+      "Whisk eggs with milk.",
+      "Cook gently in butter, stirring constantly."
+    ],
+    "ingredients": [
+      {"name": "Eggs", "quantity": 3, "unit": "count"},
+      {"name": "Milk", "quantity": 1, "unit": "splash"},
+      {"name": "Butter", "quantity": 1, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Tomato Soup",
+    "description": "Comforting roasted tomato soup.",
+    "cuisine": "Soup",
+    "prep_minutes": 35,
+    "steps": [
+      "Saute onions and garlic in butter.",
+      "Add tomatoes and simmer.",
+      "Blend until smooth and season."
+    ],
+    "ingredients": [
+      {"name": "Tomatoes", "quantity": 5, "unit": "count"},
+      {"name": "Onions", "quantity": 1, "unit": "count"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"},
+      {"name": "Butter", "quantity": 1, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Carrot Ginger Soup",
+    "description": "Silky, warming carrot soup.",
+    "cuisine": "Soup",
+    "prep_minutes": 30,
+    "steps": [
+      "Soften onions and garlic.",
+      "Add carrots and stock, simmer until tender.",
+      "Blend until velvety."
+    ],
+    "ingredients": [
+      {"name": "Carrots", "quantity": 4, "unit": "count"},
+      {"name": "Onions", "quantity": 1, "unit": "count"},
+      {"name": "Garlic", "quantity": 1, "unit": "clove"}
+    ]
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "description": "Grilled chicken over crisp lettuce with cheese.",
+    "cuisine": "Salad",
+    "prep_minutes": 20,
+    "steps": [
+      "Grill and slice the chicken.",
+      "Toss lettuce with dressing and cheese.",
+      "Top with the warm chicken."
+    ],
+    "ingredients": [
+      {"name": "Chicken Breast", "quantity": 1, "unit": "count"},
+      {"name": "Lettuce", "quantity": 1, "unit": "head"},
+      {"name": "Cheddar Cheese", "quantity": 1, "unit": "slice", "optional": true}
+    ]
+  },
+  {
+    "name": "Fruit & Yogurt Bowl",
+    "description": "A light, refreshing breakfast bowl.",
+    "cuisine": "Breakfast",
+    "prep_minutes": 5,
+    "steps": [
+      "Spoon yogurt into a bowl.",
+      "Top with sliced apples."
+    ],
+    "ingredients": [
+      {"name": "Yogurt", "quantity": 1, "unit": "cup"},
+      {"name": "Apples", "quantity": 1, "unit": "count"}
+    ]
+  },
+  {
+    "name": "Stuffed Peppers",
+    "description": "Bell peppers filled with savory beef.",
+    "cuisine": "Dinner",
+    "prep_minutes": 45,
+    "steps": [
+      "Brown beef with onions, garlic and chopped tomatoes.",
+      "Halve and core the peppers.",
+      "Fill and bake until tender."
+    ],
+    "ingredients": [
+      {"name": "Bell Peppers", "quantity": 3, "unit": "count"},
+      {"name": "Ground Beef", "quantity": 1, "unit": "pack"},
+      {"name": "Tomatoes", "quantity": 2, "unit": "count"},
+      {"name": "Onions", "quantity": 1, "unit": "count"}
+    ]
+  },
+  {
+    "name": "Roasted Veggie Medley",
+    "description": "Simple oven-roasted vegetables.",
+    "cuisine": "Side",
+    "prep_minutes": 35,
+    "steps": [
+      "Chop all vegetables into chunks.",
+      "Toss with oil, garlic, salt and pepper.",
+      "Roast at 200C until caramelized."
+    ],
+    "ingredients": [
+      {"name": "Carrots", "quantity": 2, "unit": "count"},
+      {"name": "Broccoli", "quantity": 1, "unit": "head"},
+      {"name": "Bell Peppers", "quantity": 1, "unit": "count"},
+      {"name": "Onions", "quantity": 1, "unit": "count"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"}
+    ]
+  }
+]

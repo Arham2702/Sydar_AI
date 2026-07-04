@@ -1,0 +1,39 @@
+# Python
+backend/.venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+backend/*.db
+*.sqlite
+*.sqlite3
+backend/.pytest_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+.coverage*
+htmlcov/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+
+# Node / Next.js
+frontend/node_modules/
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Environment / secrets — never commit real keys
+.env
+.env.*
+!.env.example
+!backend/.env.example
+frontend/.env*.local
+!frontend/.env.local.example
+
+# Misc
+.DS_Store
+*.log
+.idea/
+.vscode/
