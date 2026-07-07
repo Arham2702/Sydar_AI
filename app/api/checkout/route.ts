@@ -26,11 +26,11 @@ export async function POST(req: NextRequest) {
         {
           price_data: {
             currency: "aud",
-            unit_amount: 1690, // AUD $16.90 refundable waitlist deposit
+            unit_amount: 1699, // AUD $16.99 founding-member early-bird reservation price
             product_data: {
-              name: "SYDAR AI — Waitlist Reservation",
+              name: "SYDAR AI — Founding Member Reservation",
               description:
-                "Refundable deposit to reserve early access to SYDAR AI. Fully refundable before launch.",
+                "Early-bird price to reserve a founding spot (250 cap) and lock in 50% off for life. Fully refundable any time before launch.",
             },
           },
           quantity: 1,
